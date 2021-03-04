@@ -38,7 +38,7 @@ void core1_main();
 
 
 //--------------------------------------------------------------------+
-// MIDI Stack callback (not neede right now)
+// MIDI Stack callback (not needed right now)
 //--------------------------------------------------------------------+
 
 // Invoked when device is mounted
